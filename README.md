@@ -1,15 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Oğuzhan
 
-<!--
-**ogzcode/ogzCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front-end Web development
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I've been learning HTML, CSS and JavaScript for a while.
+- 💪 I want to improve myself in both front-end technologies and UX Design.
+- 📫 How to reach me: 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/ogzCode)
