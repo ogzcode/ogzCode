@@ -2,7 +2,7 @@
 ### I'm Junior Frontend Developer
 <hr>
 
-- 👓 I've been learning Vue.js and SCSS for a while
+- 👓 I've been learning Vue.js, React.js and SCSS for a while
 - 🏃 I'm practicing with Html Css Js
 - 💪 I want to improve myself in both front-end technologies and UX Design.
 <hr>
