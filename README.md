@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UC16gmo_SSr0i-kIcoNJVUfw">
-  <img src"https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 
 <hr>
