@@ -20,6 +20,9 @@
 <a href="https://www.youtube.com/channel/UC16gmo_SSr0i-kIcoNJVUfw">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
+<a href="https://www.codechef.com/users/ogzcode">
+  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+</a>
 
 <hr>
 <h2>🧰 Language and Tools</h2>
