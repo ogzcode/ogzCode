@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Oğuzhan
-### I'm Junior Frontend Developer
+### I'm Software Developer
 <hr>
 
-- 👓 I've been learning Vue.js, React.js and SCSS for a while
-- 🏃 I'm practicing with Html Css Js
-- 💪 I want to improve myself in both front-end technologies and UX Design.
+- 🧑‍💼 I work in the field of Front End Technologies(React,Vue,Js)
+- 🎉 I love to support the open source and read code
+- 📖 I am developing myself at Python and JavaScript Ecosystem
 <hr>
 
 ### Contact Me
@@ -14,27 +14,26 @@
 <a href="linkedin.com/in/oğuzhan-güç-327633193">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://codepen.io/ogzCode">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/channel/UC16gmo_SSr0i-kIcoNJVUfw">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/ogzcode">
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+<a href="mailto:oguzguc44@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
 <hr>
-<h2>🧰 Language and Tools</h2>
-<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
-<span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
-<span><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/></span>
-<span><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/></span>
-<span><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></span>
+<h3>🏎️ Language</h3>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)"/></span>
+
+
+<h3>🧰 Tools</h3>
+<span><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/></span>
+<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/></span>
+<span><img src="ttps://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"/></span>
