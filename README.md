@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Oğuzhan
-### I'm Software Developer
+### Software Developer
 <hr>
 
-- 🧑‍💼 I work in the field of Front End Technologies(React,Vue,Js)
-- 🎉 I love to support the open source and read code
-- 📖 I am developing myself at Python and JavaScript Ecosystem
+- 🧑‍💼 I specialize in Front-End Technologies (React, Vue, JavaScript).
+- 🎉 I'm passionate about supporting open source and reading code.
+- 📖 Currently, I'm enhancing my skills in the <strong>Python</strong> and <strong>JavaScript</strong> Ecosystems.
+- 🎮 I also enjoy game development with Godot.
 <hr>
 
 ### Contact Me
